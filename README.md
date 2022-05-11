@@ -1,5 +1,5 @@
 <h1 align="center">Ciao! 👋🏻 I'm Matteo</h1>
-<h2 align="center">Computer Science novice and AI enthusiast</h2>
+<h3 align="center">Computer Science novice and AI enthusiast</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mbarbetti" alt="mbarbetti"/>
   <a href="https://github.com/mbarbetti"><img src="https://img.shields.io/badge/GitHub-mbarbetti-171515?style=flat&logo=github&logoColor=white"/></a>
@@ -35,9 +35,9 @@
 
 ### Profile Statistics
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&hide_border=false&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF" width="70%"/><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&hide=jupyter%20notebook&layout=compact&langs_count=10&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF" width="70%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mbarbetti&&langs_count=5&v=2&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF&card_width=80" width="70%"/>
+  <a href="https://github.com/mbarbetti"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&include_all_commits=false&count_private=true&hide_title=false&hide_border=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF"/></a><br>
+  <a href="https://github.com/mbarbetti"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&hide=jupyter%20notebook&layout=compact&langs_count=10&hide_title=false&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF"/></a><br>
+  <a href="https://wakatime.com/@mbarbetti"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mbarbetti&&langs_count=5&v=2&hide_title=false&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=80"/></a>
 </p>
 
 ### Favourite Tools
