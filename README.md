@@ -1,19 +1,46 @@
-## Ciao! 👋 I'm Matteo <a href="https://gpvc.arturio.dev/mbarbetti"><img align="right" src="https://gpvc.arturio.dev/mbarbetti"/></a>
+<h1 align="center">Ciao! 👋🏻 I'm Matteo</h1>
+<h3 align="center">Computer Science novice and AI enthusiast</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mbarbetti" alt="mbarbetti"/>
+  <a href="https://github.com/mbarbetti"><img src="https://img.shields.io/badge/GitHub-mbarbetti-171515?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://gitlab.cern.ch/mabarbet"><img src="https://img.shields.io/badge/GitLab-mabarbet-e24329?style=flat&logo=gitlab&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/mbarbetti"><img src="https://img.shields.io/badge/Kaggle-mbarbetti-37bae8?style=flat&logo=kaggle&logoColor=white"/></a>
+</p>
 
-[![](https://img.shields.io/badge/GitHub-mbarbetti-informational?style=flat&logo=github&logoColor=white&color=171515)](https://github.com/mbarbetti) [![](https://img.shields.io/badge/GitLab-mabarbet-informational?style=flat&logo=gitlab&logoColor=white&color=e24329)](https://gitlab.cern.ch/mabarbet) [![](https://img.shields.io/badge/Twitter-mbarbetz-informational?style=flat&logo=twitter&logoColor=white&color=28a9e2)](https://twitter.com/mbarbetz) 
+#### Current Activity
+🎓 I'm a **PhD student** in [Smart Computing @ UniFi](https://smartcomputing.unifi.it/)
 
-[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-6704-6914) [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=GoogleScholar&logoColor=white&color=4086f4)](https://scholar.google.com/citations?user=Ufpa6SIAAAAJ) [![](https://img.shields.io/badge/Publons-informational?style=flat&logo=Publons&logoColor=white&color=336699)](https://publons.com/researcher/4210045/matteo-barbetti/) [![](https://img.shields.io/badge/ResearchGate-informational?style=flat&logo=ResearchGate&logoColor=white&color=00d0af)](https://www.researchgate.net/profile/Matteo-Barbetti) [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=08142c)](https://inspirehep.net/authors/1908127)
+#### Contacts
+<p align="left">
+  <a href="https://twitter.com/mbarbetz"><img src="https://img.shields.io/badge/Twitter-28a9e2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matteo-barbetti/"><img src="https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@m.barbetz"><img src="https://img.shields.io/badge/TikTok-010101?style=flat&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.instagram.com/m.barbetz/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
-### Profile Statistics
+<p align="left">
+  <a href="https://orcid.org/0000-0002-6704-6914"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=Ufpa6SIAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4086f4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+  <a href="https://publons.com/researcher/4210045/matteo-barbetti/"><img src="https://img.shields.io/badge/Publons-336699?style=flat&logo=Publons&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Matteo-Barbetti"><img src="https://img.shields.io/badge/ResearchGate-00d0af?style=flat&logo=ResearchGate&logoColor=white"/></a>
+  <a href="https://inspirehep.net/authors/1908127"><img src="https://img.shields.io/badge/INSPIREhep-08142c?style=flat&logo=inspirehep&logoColor=white"/></a>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&count_private=true&hide_title=true&hide_border=false&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&card_width=100"/>
+#### Interests
+🤔 Topics I'm curious about:
+  - Generative Models
+  - Graph Neural Networks
+  - Bayesian Optimization
+  - Ultra-Fast Simulation
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&layout=compact&langs_count=10&hide_title=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=80"/>
+#### Profile Statistics
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&hide_border=false&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF" width="70%"/><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&hide=jupyter%20notebook&layout=compact&langs_count=10&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF" width="70%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mbarbetti&&langs_count=5&v=2&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF&card_width=80" width="70%"/>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mbarbetti&&langs_count=5&v=2&hide_title=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=80"/>
-
-### Favourite Tools
-
+#### Favourite Tools
 ![](https://img.shields.io/badge/OS-mac%20OS-000000?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
