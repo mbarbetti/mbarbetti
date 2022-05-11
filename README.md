@@ -12,6 +12,10 @@
 
 ### Contacts
 <p align="left">
+  <a href="mailto:matteo.barbetti@unifi.it"><img src="https://img.shields.io/badge/Gmail-matteo.barbetti@unifi.it-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="left">
   <a href="https://twitter.com/mbarbetz"><img src="https://img.shields.io/badge/Twitter-28a9e2?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/matteo-barbetti/"><img src="https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@m.barbetz"><img src="https://img.shields.io/badge/TikTok-010101?style=flat&logo=tiktok&logoColor=white"/></a>
