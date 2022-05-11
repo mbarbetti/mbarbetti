@@ -1,16 +1,18 @@
-### Ciao 👋
-
-![Profile views in 2022](https://gpvc.arturio.dev/mbarbetti)
+## Ciao! 👋 I'm Matteo <a href="https://gpvc.arturio.dev/mbarbetti"><img align="right" src="https://gpvc.arturio.dev/mbarbetti"/></a>
 
 [![](https://img.shields.io/badge/GitHub-mbarbetti-informational?style=flat&logo=github&logoColor=white&color=171515)](https://github.com/mbarbetti) [![](https://img.shields.io/badge/GitLab-mabarbet-informational?style=flat&logo=gitlab&logoColor=white&color=e24329)](https://gitlab.cern.ch/mabarbet) [![](https://img.shields.io/badge/Twitter-mbarbetz-informational?style=flat&logo=twitter&logoColor=white&color=28a9e2)](https://twitter.com/mbarbetz) 
 
 [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-6704-6914) [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=GoogleScholar&logoColor=white&color=4086f4)](https://scholar.google.com/citations?user=Ufpa6SIAAAAJ) [![](https://img.shields.io/badge/Publons-informational?style=flat&logo=Publons&logoColor=white&color=336699)](https://publons.com/researcher/4210045/matteo-barbetti/) [![](https://img.shields.io/badge/ResearchGate-informational?style=flat&logo=ResearchGate&logoColor=white&color=00d0af)](https://www.researchgate.net/profile/Matteo-Barbetti) [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=08142c)](https://inspirehep.net/authors/1908127)
 
-![Matteo Barbetti's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarbetti&hide=stars&count_private=true&show_icons=true)
+### Profile Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&hide=jupyter%20notebook&langs_count=10&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&count_private=true&hide_title=true&hide_border=false&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF&card_width=100"/>
 
-### Some of my favourite tools
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&layout=compact&langs_count=10&hide_title=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=80"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mbarbetti&&langs_count=5&v=2&hide_title=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=80"/>
+
+### Favourite Tools
 
 ![](https://img.shields.io/badge/OS-mac%20OS-000000?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)
