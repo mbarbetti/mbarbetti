@@ -1,8 +1,8 @@
 ### Ciao 👋
 
-![Profile views in 2022](https://gpvc.arturio.dev/mbarbetti) [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-6704-6914) [![](https://img.shields.io/badge/ResearchGate-informational?style=flat&logo=ResearchGate&logoColor=white&color=00d0af)](https://www.researchgate.net/profile/Matteo-Barbetti) [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=08142c)](https://inspirehep.net/authors/1908127)
+![Profile views in 2022](https://gpvc.arturio.dev/mbarbetti) [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-6704-6914) [![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=GoogleScholar&logoColor=white&color=4086f4)](https://scholar.google.com/citations?user=Ufpa6SIAAAAJ) [![](https://img.shields.io/badge/ResearchGate-informational?style=flat&logo=ResearchGate&logoColor=white&color=00d0af)](https://www.researchgate.net/profile/Matteo-Barbetti) [![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=08142c)](https://inspirehep.net/authors/1908127)
 
-![tamasgal's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamasgal&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamasgal&langs_count=12&layout=compact&exclude_repo=rba)
+![mbarbetti's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&langs_count=12&layout=compact&exclude_repo=rba)
 
 <!--
 ### Some of my favourite tools
