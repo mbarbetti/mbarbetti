@@ -1,5 +1,5 @@
 <h1 align="center">Ciao! 👋🏻 I'm Matteo</h1>
-<h3 align="center">Computer Science novice and AI enthusiast</h3>
+<h2 align="center">Computer Science novice and AI enthusiast</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mbarbetti" alt="mbarbetti"/>
   <a href="https://github.com/mbarbetti"><img src="https://img.shields.io/badge/GitHub-mbarbetti-171515?style=flat&logo=github&logoColor=white"/></a>
@@ -7,10 +7,10 @@
   <a href="https://www.kaggle.com/mbarbetti"><img src="https://img.shields.io/badge/Kaggle-mbarbetti-37bae8?style=flat&logo=kaggle&logoColor=white"/></a>
 </p>
 
-#### Current Activity
+### Current Activity
 🎓 I'm a **PhD student** in [Smart Computing @ UniFi](https://smartcomputing.unifi.it/)
 
-#### Contacts
+### Contacts
 <p align="left">
   <a href="https://twitter.com/mbarbetz"><img src="https://img.shields.io/badge/Twitter-28a9e2?style=flat&logo=twitter&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/matteo-barbetti/"><img src="https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -26,21 +26,21 @@
   <a href="https://inspirehep.net/authors/1908127"><img src="https://img.shields.io/badge/INSPIREhep-08142c?style=flat&logo=inspirehep&logoColor=white"/></a>
 </p>
 
-#### Interests
+### Interests
 🤔 Topics I'm curious about:
   - Generative Models
   - Graph Neural Networks
   - Bayesian Optimization
   - Ultra-Fast Simulation
 
-#### Profile Statistics
+### Profile Statistics
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&include_all_commits=false&count_private=true&hide_title=true&hide_border=false&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF" width="70%"/><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&hide=jupyter%20notebook&layout=compact&langs_count=10&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF" width="70%"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mbarbetti&&langs_count=5&v=2&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF&card_width=80" width="70%"/>
 </p>
 
-#### Favourite Tools
+### Favourite Tools
 ![](https://img.shields.io/badge/OS-mac%20OS-000000?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
