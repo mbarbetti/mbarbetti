@@ -52,7 +52,7 @@
 </p>
 
 <!-- PROFILE STATS -->
-### Profile Statistics
+### Profile stats
 
 <p align="left">
   <a href="https://github.com/mbarbetti"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&include_all_commits=false&count_private=true&hide_title=false&hide_border=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF"/></a><br>
@@ -61,7 +61,7 @@
 </p>
 
 <!-- FAVOURITE TOOLS -->
-### Favourite Tools
+### Favourite tools
 
 ![](https://img.shields.io/badge/OS-mac%20OS-000000?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)
