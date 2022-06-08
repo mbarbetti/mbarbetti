@@ -45,8 +45,8 @@
 🗂️ My academic social profiles:
 <p align="left">
   <a href="https://orcid.org/0000-0002-6704-6914"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=Ufpa6SIAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4086f4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
   <a href="https://publons.com/researcher/4210045/matteo-barbetti/"><img src="https://img.shields.io/badge/Publons-336699?style=flat&logo=Publons&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=Ufpa6SIAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4086f4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Matteo-Barbetti"><img src="https://img.shields.io/badge/ResearchGate-00d0af?style=flat&logo=ResearchGate&logoColor=white"/></a>
   <a href="https://inspirehep.net/authors/1908127"><img src="https://img.shields.io/badge/INSPIREhep-08142c?style=flat&logo=inspirehep&logoColor=white"/></a>
 </p>
