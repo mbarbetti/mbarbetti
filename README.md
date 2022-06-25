@@ -75,6 +75,7 @@
 ![](https://img.shields.io/badge/Code-scikit_learn-f89a36?style=flat&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Code-Keras-d10000?style=flat&logo=keras&logoColor=white)
 ![](https://img.shields.io/badge/Code-TensorFlow-f57000?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Code-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/Code-Colab-f9ab00?style=flat&logo=googlecolab&logoColor=white)
 ![](https://img.shields.io/badge/Code-Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Code-LaTeX-008080?style=flat&logo=lateX&logoColor=white)
