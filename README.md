@@ -15,6 +15,7 @@
 🧪 I'm a **member** of the [National Institute for Nuclear Physics (INFN)](https://home.infn.it/en/) and of the [LHCb Collaboration @ CERN](http://lhcb.web.cern.ch/)
 
 🚧 I'm currently working on:
+  - Ready to use implementations of state-of-the-art **generative models** in PyTorch (see: [torchgen](https://github.com/mbarbetti/torchgen))
   - Ready to use implementations of state-of-the-art **generative models** in TensorFlow 2 (see: [tf-gen-models](https://github.com/mbarbetti/tf-gen-models))
   - Scripts and logics to train PID models for the **Ultra-Fast Simulation** of the LHCb experiment (see: [lb-pidsim-train](https://github.com/mbarbetti/lb-pidsim-train))
   - Classification of bulky mediastinal lymphomas based on radiomic features (see: [lymphoma-classification](https://github.com/mbarbetti/lymphoma-classification))
