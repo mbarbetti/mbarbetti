@@ -17,8 +17,8 @@
 🚧 I'm currently working on:
   - Ready to use implementations of state-of-the-art **generative models** in TensorFlow 2 and PyTorch (see: [tf-gen-models](https://github.com/mbarbetti/tf-gen-models), [torchgen](https://github.com/mbarbetti/torchgen))
   - Scripts and logics to train PID models for the **Ultra-Fast Simulation** of the LHCb experiment (see: [lb-pidsim-train](https://github.com/mbarbetti/lb-pidsim-train))
-  - API to distribute **hyperparameters optimization** through HTTP requests (see: [hopaas](https://github.com/landerlini/hopaas), [optunapi](https://github.com/mbarbetti/optunapi))
-  - Classification of bulky mediastinal lymphomas based on radiomic features (see: [lymphoma-classification](https://github.com/mbarbetti/lymphoma-classification))
+  - API to distribute **hyperparameters optimization** through HTTP requests (see: [hopaas](https://github.com/landerlini/hopaas), [hopaas_client](https://github.com/landerlini/hopaas_client), [optunapi](https://github.com/mbarbetti/optunapi))
+  - Classification of bulky mediastinal **lymphomas** based on radiomic features (see: [lymphoma-classification](https://github.com/mbarbetti/lymphoma-classification))
 
 🤔 I'm curious about:
   - Generative Models
