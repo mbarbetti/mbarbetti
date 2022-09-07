@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=mbarbetti" alt="mbarbetti"/>
   <a href="https://github.com/mbarbetti"><img src="https://img.shields.io/badge/GitHub-mbarbetti-171515?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://gitlab.cern.ch/mabarbet"><img src="https://img.shields.io/badge/GitLab.cern-mabarbet-e24329?style=flat&logo=gitlab&logoColor=white"/></a>
-  <a href="https://baltig.infn.it/barbetti_matteo"><img src="https://img.shields.io/badge/GitLab.infn-barbetti_matteo-e24329?style=flat&logo=gitlab&logoColor=white"/></a>
+  <a href="https://baltig.infn.it/barbetti_matteo"><img src="https://img.shields.io/badge/GitLab.infn-barbetti\_matteo-e24329?style=flat&logo=gitlab&logoColor=white"/></a>
   <a href="https://www.kaggle.com/mbarbetti"><img src="https://img.shields.io/badge/Kaggle-mbarbetti-37bae8?style=flat&logo=kaggle&logoColor=white"/></a>
 </p>
 
