@@ -75,7 +75,7 @@
 ![](https://img.shields.io/badge/Code-Python-3673a5?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
 ![](https://img.shields.io/badge/Code-Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Code-scikit_learn-f89a36?style=flat&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Code-sklearn-f89a36?style=flat&logo=scikit-learn&logoColor=white)
 ![](https://img.shields.io/badge/Code-Keras-d10000?style=flat&logo=keras&logoColor=white)
 ![](https://img.shields.io/badge/Code-TensorFlow-f57000?style=flat&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Code-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -84,18 +84,3 @@
 ![](https://img.shields.io/badge/Code-LaTeX-008080?style=flat&logo=lateX&logoColor=white)
 ![](https://img.shields.io/badge/Code-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Code-Git-f05030?style=flat&logo=git&logoColor=white)
-
-<!--
-**mbarbetti/mbarbetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
