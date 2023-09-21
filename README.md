@@ -19,10 +19,10 @@
 🧪 I'm a **member** of the [National Institute for Nuclear Physics (INFN)](https://home.infn.it/en/) and of the [LHCb Collaboration @ CERN](http://lhcb.web.cern.ch/)
 
 🚧 I'm currently working on:
-  - Parameterizations for the **Ultra-Fast Simulation** of the LHCb experiment (see: [calotron](https://github.com/mbarbetti/calotron), [lb-pidsim-train](https://github.com/mbarbetti/lb-pidsim-train))
-  - Ready to use implementations of **generative models** in TensorFlow 2 and PyTorch (see: [tf-gen-models](https://github.com/mbarbetti/tf-gen-models), [torchgen](https://github.com/mbarbetti/torchgen))
-  - Distributing **hyperparameters optimization** through HTTP requests (see: [hopaas](https://github.com/landerlini/hopaas), [hopaas_client](https://github.com/landerlini/hopaas_client), [optunapi](https://github.com/mbarbetti/optunapi))
-  - Classification of bulky mediastinal lymphomas based on **radiomic features** (see: [lymphoma-classification](https://github.com/mbarbetti/lymphoma-classification))
+  - Parameterizations for the **Ultra-Fast Simulation** of the LHCb experiment (see: [pidgan](https://github.com/mbarbetti/pidgan), [calotron](https://github.com/mbarbetti/calotron))
+  - Ready to use implementations of **generative models** in TensorFlow 2 (see: [tf-gen-models](https://github.com/mbarbetti/tf-gen-models))
+  - Distributing **hyperparameters optimization** through HTTP requests (see: [hopaas](https://hopaas.cloud.infn.it), [hopaas_client](https://github.com/landerlini/hopaas_client), [optunapi](https://github.com/mbarbetti/optunapi))
+  - Classification of bulky mediastinal lymphomas based on **radiomic features** (see: [mediastinal-lymphoma-classification](https://github.com/mbarbetti/mediastinal-lymphoma-classification))
 
 🤔 I'm curious about:
   - Generative Models
