@@ -53,7 +53,7 @@
   <a href="https://inspirehep.net/authors/1908127"><img src="https://img.shields.io/badge/iNSPIRE_HEP-08142c?style=flat&logo=inspire&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Matteo-Barbetti"><img src="https://img.shields.io/badge/ResearchGate-00d0af?style=flat&logo=ResearchGate&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=Ufpa6SIAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4086f4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
-  <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732"><img src="https://img.shields.io/badge/SemanticScholar-f4d45f?style=flat&logo=semanticscholar&logoColor=11223c&labelColor=11223c"/></a>
+  <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732"><img src="https://img.shields.io/badge/SemanticScholar-11223c?style=flat&logo=semanticscholar&logoColor=white"/></a>
 </p>
 
 <!-- PROFILE STATS -->
