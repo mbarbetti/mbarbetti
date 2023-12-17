@@ -40,18 +40,20 @@
 
 💬 My social profiles:
 <p align="left">
-  <a href="https://twitter.com/mbarbetz"><img src="https://img.shields.io/badge/Twitter-28a9e2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.threads.net/@m.barbetz"><img src="https://img.shields.io/badge/Threads-black?style=flat&logo=threads&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/matteo-barbetti/"><img src="https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@m.barbetz"><img src="https://img.shields.io/badge/TikTok-010101?style=flat&logo=tiktok&logoColor=white"/></a>
   <a href="https://www.instagram.com/m.barbetz/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitter.com/mbarbetz"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
 🗂️ My academic social profiles:
 <p align="left">
   <a href="https://orcid.org/0000-0002-6704-6914"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=Ufpa6SIAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4086f4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+  <a href="https://inspirehep.net/authors/1908127"><img src="https://img.shields.io/badge/iNSPIRE_HEP-08142c?style=flat&logo=inspire&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Matteo-Barbetti"><img src="https://img.shields.io/badge/ResearchGate-00d0af?style=flat&logo=ResearchGate&logoColor=white"/></a>
-  <a href="https://inspirehep.net/authors/1908127"><img src="https://img.shields.io/badge/INSPIREhep-08142c?style=flat&logo=inspirehep&logoColor=white"/></a>
+  <a href="https://scholar.google.com/citations?user=Ufpa6SIAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4086f4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+  <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732"><img src="https://img.shields.io/badge/SemanticScholar-11223c?style=flat&logo=semanticscholar&logoColor=white"/></a>
 </p>
 
 <!-- PROFILE STATS -->
