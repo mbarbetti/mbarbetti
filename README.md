@@ -1,41 +1,46 @@
-<h1 align="center">Ciao! 👋🏻 I'm Matteo</h1>
-<h3 align="center">Computer Science novice and AI enthusiast</h3>
+<h1 align="center">Ciao! 👋🏻 I am Matteo</h1>
+<h2 align="center">Artificial Intelligence researcher</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mbarbetti" alt="mbarbetti"/>
   <a href="https://github.com/mbarbetti"><img src="https://img.shields.io/badge/GitHub-mbarbetti-171515?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://gitlab.cern.ch/mabarbet"><img src="https://img.shields.io/badge/GitLab.cern-mabarbet-e24329?style=flat&logo=gitlab&logoColor=white"/></a>
   <!--
-  <a href="https://baltig.infn.it/barbetti_matteo"><img src="https://img.shields.io/badge/GitLab.infn-barbetti_matteo-e24329?style=flat&logo=gitlab&logoColor=white"/>
+  <a href="https://baltig.infn.it/barbetti_matteo"><img src="https://img.shields.io/badge/baltig.infn.it-barbetti_matteo-e24329?style=flat&logo=gitlab&logoColor=white"/></a>
   -->
-</a>
+  <!--
+  <a href="https://hub.docker.com/u/mbarbetti"><img src="https://img.shields.io/badge/DockerHub-mbarbetti-1c63ee?style=flat&logo=docker&logoColor=white"/></a>
+  -->
+  <!--
   <a href="https://www.kaggle.com/mbarbetti"><img src="https://img.shields.io/badge/Kaggle-mbarbetti-37bae8?style=flat&logo=kaggle&logoColor=white"/></a>
+  -->
 </p>
 
 <!-- ABOUT ME -->
 ### About me
 
-🎓 I'm a **PhD student** in [Smart Computing @ UniFi](https://smartcomputing.unifi.it/)
+🧑🏻‍💻 I am a **technological researcher** at [INFN-CNAF](https://www.cnaf.infn.it/en)
 
-🧪 I'm a **member** of the [National Institute for Nuclear Physics (INFN)](https://home.infn.it/en/) and of the [LHCb Collaboration @ CERN](http://lhcb.web.cern.ch/)
+🎓 I have recently obtained the **PhD in Smart Computing** at the [University of Firenze](https://www.unifi.it/en)
 
-🚧 I'm currently working on:
-  - Parameterizations for the **Ultra-Fast Simulation** of the LHCb experiment (see: [pidgan](https://github.com/mbarbetti/pidgan), [calotron](https://github.com/mbarbetti/calotron))
-  - Ready to use implementations of **generative models** in TensorFlow 2 (see: [tf-gen-models](https://github.com/mbarbetti/tf-gen-models))
-  - Distributing **hyperparameters optimization** through HTTP requests (see: [hopaas](https://hopaas.cloud.infn.it), [hopaas_client](https://github.com/landerlini/hopaas_client), [optunapi](https://github.com/mbarbetti/optunapi))
-  - Classification of bulky mediastinal lymphomas based on **radiomic features** (see: [mediastinal-lymphoma-classification](https://github.com/mbarbetti/mediastinal-lymphoma-classification))
+🤝🏻 I am **member** of the [National Institute for Nuclear Physics (INFN)](https://home.infn.it/en/) and of the [LHCb Collaboration @ CERN](http://lhcb.web.cern.ch/)
 
-🤔 I'm curious about:
-  - Generative Models
-  - Transformers and Graph Neural Networks
-  - Bayesian Learning and Optimization
-  - Fast and Ultra-Fast Simulation
+🚧 I am currently working on:
+  - Generative models for the **Flash Simulation** of the LHCb experiment (see: [pidgan](https://github.com/mbarbetti/pidgan), [calotron](https://github.com/mbarbetti/calotron), [tf-gen-models](https://github.com/mbarbetti/tf-gen-models))
+  - Orchestration of **hyperparameters optimization** via HTTP requests (see: [hopaas](https://hopaas.cloud.infn.it), [hopaas_client](https://github.com/landerlini/hopaas_client), [optunapi](https://github.com/mbarbetti/optunapi))
+  - GenAI-powered digital agent for supporting the users of the CNAF Data Center
+
+💡 I am interested about:
+  - Deep Generative Models (in particular, GANs)
+  - Transformers and attention-driven models
+  - Graph Neural Networks
+  - Bayesian optimization
 
 <!-- CONTACTS -->
 ### Contacts
 
 📫 How to reach me:
 <p align="left">
-  <a href="mailto:matteo.barbetti@unifi.it"><img src="https://img.shields.io/badge/Gmail-matteo.barbetti@unifi.it-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:matteo.barbetti.94@gmail.com"><img src="https://img.shields.io/badge/Gmail-matteo.barbetti.94@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 💬 My social profiles:
@@ -62,7 +67,9 @@
 <p align="left">
   <a href="https://github.com/mbarbetti"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mbarbetti&show_icons=true&include_all_commits=false&count_private=true&hide_title=false&hide_border=true&hide_rank=false&icon_color=#00CCFF&title_color=#00CCFF"/></a><br>
   <a href="https://github.com/mbarbetti"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbetti&hide=jupyter%20notebook&layout=compact&langs_count=10&hide_title=false&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF"/></a><br>
+  <!--
   <a href="https://wakatime.com/@mbarbetti"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@mbarbetti&&langs_count=5&v=2&hide_title=false&hide_border=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=80"/></a>
+  -->
 </p>
 
 <!-- FAVOURITE TOOLS -->
@@ -73,7 +80,6 @@
 ![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/IDE-VIM-%2311AB00?&style=flat&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/IDE-VS_Code-007acc?style=flat&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Overleaf-47a141?style=flat&logo=overleaf&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-3673a5?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-NumPy-777BB4?style=flat&logo=numpy&logoColor=white)
@@ -82,6 +88,7 @@
 ![](https://img.shields.io/badge/Code-Keras-d10000?style=flat&logo=keras&logoColor=white)
 ![](https://img.shields.io/badge/Code-TensorFlow-f57000?style=flat&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Code-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Code-Jax-ea80fc?style=flat&logo=jax&logoColor=white)
 ![](https://img.shields.io/badge/Code-Colab-f9ab00?style=flat&logo=googlecolab&logoColor=white)
 ![](https://img.shields.io/badge/Code-Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Code-Docker-2497ed.svg?&style=flat&logo=docker&logoColor=white)
