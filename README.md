@@ -27,7 +27,7 @@
 🚧 I am currently working on:
   - Generative models for the **Flash Simulation** of the LHCb experiment (see: [pidgan](https://github.com/mbarbetti/pidgan), [calotron](https://github.com/mbarbetti/calotron), [tf-gen-models](https://github.com/mbarbetti/tf-gen-models))
   - Orchestration of **hyperparameters optimization** via HTTP requests (see: [hopaas](https://hopaas.cloud.infn.it), [hopaas_client](https://github.com/landerlini/hopaas_client), [optunapi](https://github.com/mbarbetti/optunapi))
-  - GenAI-powered digital agent for supporting the users of the CNAF Data Center
+  - **GenAI-powered digital agent** for supporting the users of the CNAF Data Center
 
 💡 I am interested about:
   - Deep Generative Models (in particular, GANs)
