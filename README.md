@@ -1,5 +1,5 @@
 <h1 align="center">Ciao! 👋🏻 I am Matteo</h1>
-<h2 align="center">Artificial Intelligence researcher</h2>
+<h2 align="center">Data Scientist @ Accenture CoE for AI & GenAI</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mbarbetti" alt="mbarbetti"/>
   <a href="https://github.com/mbarbetti"><img src="https://img.shields.io/badge/GitHub-mbarbetti-171515?style=flat&logo=github&logoColor=white"/></a>
@@ -16,24 +16,32 @@
 </p>
 
 <!-- ABOUT ME -->
-### About me
+### About Me
 
-🧑🏻‍💻 I am a **technological researcher** at [INFN-CNAF](https://www.cnaf.infn.it/en)
+🧑🏻‍💻 I am a **Data Scientist** at the _Center of Excellence for AI & GenAI_ at [Accenture](https://www.accenture.com).
 
-🎓 I have recently obtained the **PhD in Smart Computing** at the [University of Firenze](https://www.unifi.it/en)
+🎓 I hold a **PhD in Smart Computing** from the [University of Firenze](https://www.unifi.it/en).
 
-🤝🏻 I am **member** of the [National Institute for Nuclear Physics (INFN)](https://home.infn.it/en/) and of the [LHCb Collaboration @ CERN](http://lhcb.web.cern.ch/)
+👨🏻‍🔬 Previously, I was a **Technological Researcher** at [INFN-CNAF](https://www.cnaf.infn.it/en), focusing on AI applications for **Particle Physics**.
 
-🚧 I am currently working on:
-  - Generative models for the **Flash Simulation** of the LHCb experiment (see: [pidgan](https://github.com/mbarbetti/pidgan), [calotron](https://github.com/mbarbetti/calotron), [tf-gen-models](https://github.com/mbarbetti/tf-gen-models))
-  - Orchestration of **hyperparameters optimization** via HTTP requests (see: [hopaas](https://hopaas.cloud.infn.it), [hopaas_client](https://github.com/landerlini/hopaas_client), [optunapi](https://github.com/mbarbetti/optunapi))
-  - **GenAI-powered digital agent** for supporting the users of the CNAF Data Center
+🤝🏻 As an academic, I was a **member** of both the [National Institute for Nuclear Physics (INFN)](https://home.infn.it/en/) and the [LHCb Collaboration @ CERN](http://lhcb.web.cern.ch/).
 
-💡 I am interested about:
-  - Deep Generative Models (in particular, GANs)
-  - Transformers and attention-driven models
+<!-- RECENT ACADEMIC PROJECTS -->
+### Recent Academic Projects
+  - Generative Models (e.g., GANs) for **Flash Simulation** in the LHCb experiment:
+      - Developed, trained, and optimized deep generative models for High Energy Physics (HEP) simulations.  
+      - See: [pidgan](https://github.com/mbarbetti/pidgan), [calotron](https://github.com/mbarbetti/calotron), [tf-gen-models](https://github.com/mbarbetti/tf-gen-models)
+  - **Hyperparameter Optimization as a Service:**
+      - Designed and implemented an orchestration system for hyperparameter optimization via HTTP requests.  
+      - See: [hopaas](https://hopaas.cloud.infn.it), [hopaas_client](https://github.com/landerlini/hopaas_client), [optunapi](https://github.com/mbarbetti/optunapi)
+  - **GenAI-powered Digital Agent** for user support at the CNAF Data Center.
+
+<!-- INTERESTS -->
+### Interests
+  - Deep Generative Models (particularly GANs)
+  - Transformers & attention-driven models
+  - Bayesian optimization techniques
   - Graph Neural Networks
-  - Bayesian optimization
 
 <!-- CONTACTS -->
 ### Contacts
@@ -45,20 +53,20 @@
 
 💬 My social profiles:
 <p align="left">
-  <a href="https://www.threads.net/@m.barbetz"><img src="https://img.shields.io/badge/Threads-black?style=flat&logo=threads&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/matteo-barbetti/"><img src="https://img.shields.io/badge/LinkedIn-2867b2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matteo-barbetti/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
   <a href="https://www.tiktok.com/@m.barbetz"><img src="https://img.shields.io/badge/TikTok-010101?style=flat&logo=tiktok&logoColor=white"/></a>
   <a href="https://www.instagram.com/m.barbetz/"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.threads.net/@m.barbetz"><img src="https://img.shields.io/badge/Threads-black?style=flat&logo=threads&logoColor=white"/></a>
   <a href="https://twitter.com/mbarbetz"><img src="https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white"/></a>
 </p>
 
 🗂️ My academic social profiles:
 <p align="left">
-  <a href="https://orcid.org/0000-0002-6704-6914"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
-  <a href="https://inspirehep.net/authors/1908127"><img src="https://img.shields.io/badge/iNSPIRE_HEP-08142c?style=flat&logo=inspire&logoColor=white"/></a>
-  <a href="https://www.researchgate.net/profile/Matteo-Barbetti"><img src="https://img.shields.io/badge/ResearchGate-00d0af?style=flat&logo=ResearchGate&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=Ufpa6SIAAAAJ"><img src="https://img.shields.io/badge/GoogleScholar-4086f4?style=flat&logo=GoogleScholar&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Matteo-Barbetti"><img src="https://img.shields.io/badge/ResearchGate-00d0af?style=flat&logo=ResearchGate&logoColor=white"/></a>
   <a href="https://www.semanticscholar.org/author/M.-Barbetti/2154060732"><img src="https://img.shields.io/badge/SemanticScholar-11223c?style=flat&logo=semanticscholar&logoColor=white"/></a>
+  <a href="https://inspirehep.net/authors/1908127"><img src="https://img.shields.io/badge/iNSPIRE_HEP-08142c?style=flat&logo=inspire&logoColor=white"/></a>
+  <a href="https://orcid.org/0000-0002-6704-6914"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=ORCID&logoColor=white"/></a>
 </p>
 
 <!-- PROFILE STATS -->
